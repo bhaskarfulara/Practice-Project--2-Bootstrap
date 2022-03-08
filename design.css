@@ -189,7 +189,7 @@ a:hover{
 
 }
 
-@media (min-width:773px) and (max-width:1148px){
+@media (min-width:773px) and (max-width:1168px){
     .headerafter{
         display:none;
     }
@@ -473,10 +473,11 @@ font-size: 30px;
 
 #myBtn{
     width: 193px;
-    height: 45px;
+    height: 57px;
     border-radius: 0px;
     margin-right: 25px;
     background-color: #007bc4;
+    margin-top: 30px;
 }
 
 .wrap-show{
